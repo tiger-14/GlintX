@@ -54,7 +54,7 @@ The user places their phone inside the station and presses the start button. Act
 ## Credits
 Built in collaboration with Benjamin Antony ([@Benfa-1](https://github.com/Benfa-1)) for Hack Club's Stardance 2026. 
 
-AI Usage
+**AI Usage Declaration**
 - Used AI to check whether the parts selected would work as intended for our project
 - Used AI to find part dimensions of parts without listed dimensions
 ## License
