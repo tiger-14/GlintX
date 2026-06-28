@@ -8,7 +8,7 @@ GlintX is a sleek, hands-free phone cleaning station that automatically removes 
 ## Live demo video
 https://youtu.be/upcu00X-KWE
 
-*This is just a demo of the 3D model, will update once we assemble the full thing physically*
+*(This is just a demo of the 3D model, will update once we assemble the full thing physically)*
 
 ## Features
 - 3D-printed carriage driven by a combination of high-torque TT metal gearmotors and threaded rods
@@ -55,8 +55,7 @@ The user places their phone inside the station and presses the start button. Act
 Built in collaboration with Benjamin Antony ([@Benfa-1](https://github.com/Benfa-1)) for Hack Club's Stardance 2026. 
 
 AI Usage
--Used AI to check whether the parts selected would work as intended for our project.
--Used AI to find part dimensions of parts without listed dimensions hwo do i put this in ai usage decalration
-
+- Used AI to check whether the parts selected would work as intended for our project
+- Used AI to find part dimensions of parts without listed dimensions
 ## License
 <img width="210" height="109" alt="image" src="https://github.com/user-attachments/assets/47ddd400-2bfc-4b73-9769-2a699ef808d7" />
