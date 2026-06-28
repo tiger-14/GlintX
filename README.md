@@ -24,7 +24,7 @@ https://youtu.be/upcu00X-KWE
 ## How it works
 The user places their phone inside the station and presses the start button. Actuated by the Arduino, two high-torque TT metal gearmotors rotate a pair of threaded rods. The TT motors were chosen over other motors due to their low cosdt and low RPM with high torque. This rotational force drives the 3D-printed carriage smoothly along the length of the screen. As the carriage travels, the microfiber roller cleans the front and back of the phone while a peristaltic pump pushes cleaning fluid through the pipe and then through the 0.1mm brass misting high pressure nozzles. Concurrently, a vibration disc dislodges stubborn debris near the ports and speakers of the phone, and UV lights sanitize the surface. Once the carriage hits the mechanical endstop limit switch, the Arduino reverses the TT motors, spinning the threaded rods backward to reverse the carriage's direction. Limit switches were used so that we could use cost-effective DC motors (these motors cannot count their own rotations).
 
-## Bill of Materials
+
 ## Bill of Materials
 
 | Part | Link | Price |
@@ -57,5 +57,6 @@ Built in collaboration with Benjamin Antony ([@Benfa-1](https://github.com/Benfa
 **AI Usage Declaration**
 - Used AI to check whether the parts selected would work as intended for our project
 - Used AI to find part dimensions of parts without listed dimensions
+  
 ## License
 <img width="210" height="109" alt="image" src="https://github.com/user-attachments/assets/47ddd400-2bfc-4b73-9769-2a699ef808d7" />
