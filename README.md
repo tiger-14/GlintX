@@ -8,7 +8,7 @@ GlintX is a sleek, hands-free phone cleaning station that automatically removes 
 ## Live demo video
 https://youtu.be/upcu00X-KWE
 
-*(This is just a demo of the 3D model, will update once we assemble the full thing physically)*
+*(this is just a demo of the 3D model, will update once we assemble the full thing physically)*
 
 ## Features
 - 3D-printed carriage driven by a combination of high-torque TT metal gearmotors and threaded rods
