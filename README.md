@@ -56,6 +56,7 @@ Built in collaboration with Benjamin Antony ([@Benfa-1](https://github.com/Benfa
 
 **AI Usage Declaration**
 - Used AI to check whether the parts selected would work as intended for our project
+- Used AI for help with finding some parts not available at local stores
 - Used AI to find part dimensions of parts without listed dimensions
   
 ## License
