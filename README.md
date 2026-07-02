@@ -10,6 +10,9 @@ https://youtu.be/upcu00X-KWE
 
 *(this is just a demo of the 3D model, will update once we assemble the full thing physically)*
 
+## Timelapse video
+https://youtu.be/PcwR91Ua6_g?is=He3sflx7sbozFnmt
+
 ## Features
 - 3D-printed carriage driven by a combination of high-torque TT metal gearmotors and threaded rods
 - Spinning microfiber roller for physical screen cleaning
