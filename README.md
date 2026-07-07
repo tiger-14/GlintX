@@ -40,7 +40,7 @@ The user places their phone inside the station and presses the start button. Act
 | Alligator Wires | [Link](https://www.amazon.com/Dupont-Breadboard-Jumper-Alligator-Arduino/dp/B07NWLW6P9) | $8.99 |
 | UV LED Strip | [Link](https://www.amazon.com/Strips-Flexible-Blacklight-Non-Waterproof-Halloween/dp/B0B8Z7P38X) | $7.99 |
 | Limit Switches | [Link](https://www.amazon.com/ALMOCN-Mechanical-Endstop-Switch-Printer/dp/B08L5W4WM5) | $8.99 |
-| 12V Power Supply | [Link](https://www.amazon.com/GuanTing-Universal-adapters-Converter-Transformer/dp/B086T1N5R4) | $8.28 |
+| 12V Power Supply | [Link]([https://www.amazon.com/GuanTing-Universal-adapters-Converter-Transformer/dp/B086T1N5R4](https://www.amazon.com/Facmogu-Connector-5-5x2-5mm-5-5x2-1mm-Transformer/dp/B073WSWT34?th=1)) | $9.99 |
 | Lead Screws | [Link](https://www.amazon.com/200mm%EF%BC%887-88-Inches%EF%BC%89-Thread-Printer-Machine/dp/B0BWYLKVYN) | $11.99 |
 | Peristaltic Pump | [Link](https://www.amazon.com/Kamoer-Peristaltic-Hydroponics-Nutrient-Analytical/dp/B07GWJ78FN) | $8.48 |
 | Microfiber Roller | [Link](https://www.amazon.com/Mister-Rui-Microfiber-Painting-Cabinets/dp/B0DXPQPMH1) | $6.40 |
@@ -52,7 +52,8 @@ The user places their phone inside the station and presses the start button. Act
 | M3 Screw Kit | [Link](https://www.amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FGV5FCBN) | $9.99 |
 | Magnetic Tape | [Link](https://www.amazon.com/Magnetic-Flexible-Adhesive-Backing-Magnets/dp/B0D82YQM2B) | $8.99 |
 | Misting Nozzles | [Link](https://www.amazon.com/Virello-Threaded-Pressure-Greenhouse-Landscaping/dp/B0GD74KXPL) | $7.79 |
-| **Total** | | **$216.80** |
+| Power Jack Adapter | [Link]([https://www.amazon.com/Virello-Threaded-Pressure-Greenhouse-Landscaping/dp/B0GD74KXPL](https://www.amazon.com/Connector-Barrel-Adapter-Security-Camera/dp/B09S3S6RYC/ref=mp_s_a_1_9)) | $3.99 |
+| **Total** | | **$222.50** |
 
 ## Credits
 Built in collaboration with Benjamin Antony ([@Benfa-1](https://github.com/Benfa-1)) for Hack Club's Stardance 2026. 
