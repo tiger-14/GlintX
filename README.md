@@ -9,7 +9,9 @@ GlintX is a sleek, hands-free phone cleaning station that automatically removes 
 3D model demo: https://youtu.be/upcu00X-KWE
 
 Live working demos:
+
 https://youtube.com/shorts/K10CgfDaM5A?feature=share
+
 https://youtube.com/shorts/goRyJpDBHtw?is=6xhiZecOASx1isuW
 
 ## Timelapse video
