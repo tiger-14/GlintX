@@ -1,7 +1,7 @@
 # GlintX
 GlintX is a sleek, hands-free phone cleaning station that automatically removes fingerprints, dust, and surface grime with a single button press. 
 
-<img width="605" height="519" alt="image" src="https://github.com/user-attachments/assets/cd143633-5a42-41d3-b034-99b9c74be6f0" />
+<img width="800" height="519" alt="image" src="https://github.com/user-attachments/assets/cd143633-5a42-41d3-b034-99b9c74be6f0" />
 
 
 <img width="605" height="519" alt="image" src="https://github.com/user-attachments/assets/a4032953-fee0-4741-81ac-01d403dace7a" />
